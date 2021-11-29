@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Programs\Visual Studio Projects\FG20GP_Network-Programming\FG20GP_Network-Programming\FG20GP_Network-Programming\main.cpp(36): warning C4715: 'server_main': not all control paths return a value
+  FG20GP_Network-Programming.vcxproj -> E:\Programs\Visual Studio Projects\FG20GP_Network-Programming\FG20GP_Network-Programming\Debug\FG20GP_Network-Programming.exe
